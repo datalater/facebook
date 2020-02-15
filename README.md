@@ -13,3 +13,8 @@ Kate
 Maggie
 - height:
 - age:
+
+2. 담당자 배정.
+
+* 전진철: Emma, Kate
+* 조민철: Maggie
