@@ -7,7 +7,7 @@ Emma
 - age: 27
 
 Kate
-- height: 170
+- height: 160
 - age: 30
 
 Maggie
