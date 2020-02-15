@@ -3,12 +3,12 @@
 1. 하버드 대학교 Emma, Kate, Maggie의 나이, 키를 가져와라.
 
 Emma
-- height:
-- age:
+- height: 163
+- age: 27
 
 Kate
-- height:
-- age:
+- height: 160
+- age: 30
 
 Maggie
 - height:
